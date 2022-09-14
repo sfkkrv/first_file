@@ -1,0 +1,19 @@
+1) cd ~ 
+2) ls -la /
+   owner group all
+3) cat .bash_history
+   tac
+4) touch filename // create files 
+   ls // check
+5) nano filename //  redact
+6) ctrl + x // save 
+7) ctrl + c // stop  
+8)clear // clesrig window
+9) rm filename // delete fele
+10) mkdir folder // create folder
+11)rmdir folder // delete folder 
+12) rm foldef/* // delete all files in folder
+13) rm -r folder // delete folder with all files
+14) rm -r f / // DONT USE. DELETE ALL! ALL!
+15) ls --help // help
+
